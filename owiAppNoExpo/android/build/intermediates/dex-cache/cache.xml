@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_32228bdd6b3238b30d4c5683e7654118a7642db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_ae9fecf99127d2b71a557d91423eabb61ebb1848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8e0ddf50f651a9988f278df23083dc9e138bb1a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_5786e335a64bf504b82073a5b658071360e0bc53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_db059890675add4f3d6085e1e92f32f02bc152c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b66e77c9f1047b80726f4b6272fdfb62cd45eda7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_5fafd1a68245c45b53edc37bfd97ccfbb3a41ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_ede760d4735c00827c2c96819f1195856442ffe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_da61ecf44e80dee411a1f3079b2bd1f823de7441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_d46d7fc6266d16100992842f9a25163dcd29db46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_655e75a0a08f29e90edda1523c5bda06537cbdef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_866986d2934fa1c5f9343408667f5dbd7280f43f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_155b31c1aed24f2db840db09643a48302a06d32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_899bf37f21e9b12086332f017712565082fa9117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_99ad98c6b1c59c30f2e9a9dbc3a2af0e75f58379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\owiApp\react-native-video\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="33b9ae6aa89cca3401f4947d2b87f5bf9f3c465c">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\owiApp-react-native-video-unspecified_ae2613818579f226352d2fd07e9ff557375f287f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_d7fcdfb06d3e8a40d21ff388ecbd6160fb5a6b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\owiApp\react-native-svg\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b2a4d678337faaa7cad8b298aa006274ba032cf4">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\owiApp-react-native-svg-unspecified_8fd230f88bf040e95289dcdc49abd7d14b504491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_81910874c0671e254177ad8a34ae12f28443d9a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d340f5caf2c74b2a1ac8c491bdd55065b7f75d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_421d7843158a75ab5141c1222ace2d017218244c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.50.3_ea2bd37c4a0217769afd40fd5e688d1942fb2e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\exploded-aar\com.yqritc\android-scalablevideoview\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\com.yqritc-android-scalablevideoview-1.0.4_3c6301fe5d20bf5fde013df359c117cbcd513fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\53268\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\53268\Desktop\owi-github\owiAppNoExpo\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_ec28bd013b2080add99d482f92807e142559bab6.jar" />
+    </item>
+
+</items>
