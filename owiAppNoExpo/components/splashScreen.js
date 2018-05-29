@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ScrollView, View, Text, StyleSheet, Image, Container} from 'react-native';
+import { ScrollView, View, Text, StyleSheet, Image, ImageBackground ,Container} from 'react-native';
 import MainService from './services/mainservice';
 import { Actions } from 'react-native-router-flux';
 import { Thumbnail } from 'native-base';
@@ -14,26 +14,8 @@ export default class SplashScreen extends Component {
 
   render(){
     return (
-      <View style={styles.container}>
-            
-          <Grid>
-          <Row size={40}></Row>
-          <Row size={15}>
-          <Col size={35}></Col>
-          <Col size={60}>
-          <FitImage
-          source={require('./img/owi.png')}
-          originalWidth={765}
-          originalHeight={483}
-          style={styles.fitImageWithSize}
-          />
-          </Col>
-          <Col size={20}></Col>
-          </Row>
-          <Row size={42}></Row>
-          </Grid>
-              
-          </View>
+      <ImageBackground source={require('./img/splashscreen.jpg')} style={styles.backgroundImage}>
+      </ImageBackground>
     );
   }
 }
@@ -44,6 +26,12 @@ const styles = StyleSheet.create({
     flex:1,
   },
 
+  backgroundImage: {
+    flex: 1,
+    alignSelf: 'stretch',
+    width: null,
+  },
+  
   logoContainer: {
     alignItems:'center',
     flex: 1,

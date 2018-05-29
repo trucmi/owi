@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

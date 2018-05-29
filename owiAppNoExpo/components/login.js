@@ -1,9 +1,6 @@
 import React from 'react';
 import { Container, Header, Content, Form, Item, Input, Label, Button, Text, StyleProvider} from 'native-base';
-import PouchDB from 'pouchdb-react-native';
 import { Actions, Router, Scene, Stack } from 'react-native-router-flux';
-const localDB = new PouchDB('owi');
-const remoteDB = new PouchDB('http://localhost:5984/owi');
 import { Image, StyleSheet,  Alert, View, ImageBackground} from 'react-native';
 import { Col, Row, Grid } from "react-native-easy-grid";
 import Video from 'react-native-video';

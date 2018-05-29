@@ -3,7 +3,7 @@ import {  Container, Header, Content, Footer, View, FooterTab, Button, Icon, Tex
 import { Actions } from 'react-native-router-flux';
 import PerformancePage from './performancePage';
 import { Col, Row, Grid } from "react-native-easy-grid";
-import {Alert, Dimensions} from 'react-native';
+import {Alert, Dimensions, StyleSheet} from 'react-native';
 
 var {height, width} = Dimensions.get('window');
 import { Text as SvgText } from 'react-native-svg';
@@ -33,7 +33,7 @@ export default class InsideAdvicePage extends React.Component {
     
     render() {
         return (
-            <Grid backgroundColor='blue'>
+            <Grid backgroundColor='#fff'>
             
             <Row size={53}>
             <Svg
@@ -48,8 +48,8 @@ export default class InsideAdvicePage extends React.Component {
         height="100%"
         preserveAspectRatio="xMidYMid meet"
         opacity="1"
-        href={require('./img/img3.jpg')}
-    />
+        href={require('./img/img1.jpg')}
+        />
 
     <Polygon
         points= "0,0 0,185 430,140 430,0"
@@ -75,14 +75,58 @@ export default class InsideAdvicePage extends React.Component {
 </Svg>
             </Row>
             
-            <Row size={40} backgroundColor='blue'>
-            <Text style={{color: 'grey', fontSize:24, top:200, marginHorizontal:30}}>{this.props.data.text}</Text>
-            <Button rounded block warning style={{right:200, top: 100}} >
-            <Text style={{fontWeight:'bold'}}>{this.props.data.date}</Text>
-            </Button>
-            </Row>
-            </Grid>
-            
+            <Row size={100-53-8} backgroundColor='#fff'>
+	    <Col>
+	    <Row size={8}/>
+	    <Row size={17}>
+
+
+	    <Col size={5}/>
+	    <Col size={5}>
+	    <Button transparent onPress={() => Actions.pop()} large style={styles.customButton}>
+	    <Icon name='arrow-back' style={styles.arrowBack}/>
+	    </Button>
+	    </Col>
+	    <Col size={42}/>
+	    <Col size={100-42-32}>
+	    <Button rounded block warning><Text style={styles.date}>{this.props.data.date}</Text></Button>
+</Col>
+	    <Col size={5}/>
+	    </Row>
+	    <Row size={100-8-17}>
+	    <Col size={6}/>
+	    <Col size={88}>
+	    <Content style={{top:20}}>
+	    <Text style={styles.text}>{this.props.data.text}</Text>
+</Content>
+</Col>
+   <Col size={6}/>
+	    </Row>
+	    </Col>
+	    </Row>
+	    <Button full warning onPress={() =>Actions.login()}><Text> Se déconnecter </Text></Button>
+</Grid>            
         );
     }
 }
+
+const styles = StyleSheet.create({
+	arrowBack: {
+	    color: '#ffce00',
+	},
+
+	customButton: {
+	    width: 50,
+	    height: 50,
+	    right:10
+
+	},
+	date: {
+	    fontSize:10
+	},
+	text: {
+	    marginHorizontal:4,
+	    color: 'grey',
+	    fontSize:20,
+	}
+})

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Modules/RCTI18nManager.m \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Modules/RCTI18nManager.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Modules/RCTI18nManager.m \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Modules/RCTI18nManager.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Modules/RCTI18nUtil.h

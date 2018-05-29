@@ -18,12 +18,12 @@
 
       <nav class="menu">
         <div class="header__logo">
-          <a href="#header">
+          <a href="../#header">
             <img alt="logo owi, partenaire de l'énergie du plaisir" src="../img/logo_rose.png">
           </a>
         </div>
 
-          <a href="#header" class="header__logo2">
+          <a href="../#header" class="header__logo2">
             <img alt="logo owi, partenaire de l'énergie du plaisir" src="../img/logo_blanc.png">
           </a>
 
@@ -37,7 +37,7 @@
           <li><a href="../#equipe">L'équipe</a></li>
           <li><a href="../#mail">Restez connecté</a></li>
         </ul>
-        <a href="#"><button class="se-connecter">se connecter</button></a>
+        <a href="#"><button class="se-connecter">L'application</button></a>
         <div class="se-connecter-picto">
         <a href="#">
           <img alt="connectez-vous à votre espace membre" src="../img/membre.png">
@@ -47,14 +47,14 @@
 
     <div class="site-content-membre">
 
-<p class="en-contruction">L'espace membre est actuellement en construction !</p>
+<p class="en-contruction">L'application est actuellement en construction !</p>
 <a href="../index.php">Retourner à l'accueil</a>
 
     </div>
 
   </div>
   <footer>
-    <p>2017 © BeSensius | <a href="">mentions légales</a></p>
+    <p>2017 © BeSensius | <a href="mentions_legales.php">mentions légales</a></p>
   </footer>
 
 

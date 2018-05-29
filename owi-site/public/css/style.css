@@ -95,7 +95,8 @@ h4{
   font-size:14px;
   font-weight: 300;
   color:#fff;
-  max-width: 38vw;
+  width: 38vw;
+  max-width:370px;
 }
 
 
@@ -147,6 +148,10 @@ p.cdt-articles{
   margin-bottom:40px;
   font-size:12px;
 }
+
+.telecharger-res{
+      display:none;
+    }
 
 .cercle{
   display:flex;
@@ -370,7 +375,7 @@ position: relative;
 float:left;
 width:100%;
 margin:0;
-padding:0 8.33%;
+padding:0 8.33% 50px 8.33%;
 }
 
 div.content:nth-child(6){
@@ -735,6 +740,14 @@ footer p{
   line-height:40px;
 }
 
+.mentions-legales{
+  width:90%;
+  margin:auto;
+  position: relative;
+  top:66px;
+}
+
+
 
 
   /* Menu responsive */
@@ -792,6 +805,10 @@ html, body{
     margin:0;
     padding:0;
     }
+    
+    .telecharger-res{
+      display:flex;
+    }
 
     h1 {
     text-align:center;
@@ -810,7 +827,8 @@ html, body{
     }
 
     h4{
-      max-width: none;
+      max-width:none;
+      width:90%;
       z-index: 10;
       text-align: justify;
       margin:0;

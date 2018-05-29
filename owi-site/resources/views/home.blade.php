@@ -31,8 +31,9 @@
             <li><a href="#content">Le matelas Owi</a></li>
             <li><a href="#equipe">L'équipe</a></li>
             <li><a href="#mail">Restez connecté</a></li>
+            <li class="telecharger-res"><a href="php/membre.php">L'application</a></li>
           </ul>
-          <a href="php/membre.php"><button class="se-connecter">se connecter</button></a>
+          <a href="php/membre.php"><button class="se-connecter">L'application</button></a>
           <div class="se-connecter-picto">
           <a href="php/membre.php">
             <img alt="connectez-vous à votre espace membre" src="img/membre.png">
@@ -196,3 +197,4 @@
       <div class="site-cache"></div>
     </div>
 @endsection
+

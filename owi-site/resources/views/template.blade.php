@@ -69,6 +69,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <script src="js/index.js"></script>
 </body>
 <footer>
-  <p>2017 © BeSensius | <a href="">mentions légales</a></p>
+  <p>2017 © BeSensius | <a href="php/mentions_legales.php">mentions légales</a></p>
 </footer>
 </html>

@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Modules/RCTRedBox.m \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Modules/RCTRedBox.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTErrorInfo.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/React/Base/RCTJSStackFrame.h
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Modules/RCTRedBox.m \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTErrorInfo.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/React/Base/RCTJSStackFrame.h

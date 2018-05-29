@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.m \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGCGFloatArray.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGCGFCRule.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGVBMOS.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGTextAnchor.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGUnits.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGPathParser.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Brushes/RNSVGBrushType.h \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGPercentageConverter.h
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.m \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGCGFloatArray.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGCGFCRule.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGVBMOS.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGTextAnchor.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGUnits.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGPathParser.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Brushes/RNSVGBrushType.h \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native-svg/ios/Utils/RNSVGPercentageConverter.h

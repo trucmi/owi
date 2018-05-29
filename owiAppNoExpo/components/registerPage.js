@@ -1,6 +1,5 @@
 import React from 'react';
 import { Container, Header, Content, Input, Item, Body, Title, Left , Button, Icon, Text, Form, Toast} from 'native-base';
-import PouchDB from 'pouchdb-react-native';
 import { Actions, Router, Scene, Stack } from 'react-native-router-flux';
 import { Image, StyleSheet,  Alert, View, ImageBackground, Platform, TouchableHighlight} from 'react-native';
 import { Col, Row, Grid } from "react-native-easy-grid";
@@ -10,7 +9,7 @@ export default class RegisterPage extends React.Component {
     super(props);
     this.state = {
       username: '',
-      showToast: false
+      showToast: true
     };
   }
   

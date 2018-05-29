@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/ReactCommon/jschelpers/InspectorInterfaces.cpp \
-  /Users/simixayprakaythong/Desktop/owi/owiAppNoExpo/node_modules/react-native/ReactCommon/jschelpers/InspectorInterfaces.h
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/ReactCommon/jschelpers/InspectorInterfaces.cpp \
+  /Users/trucmi/Desktop/owi-github-elise/owiAppNoExpo/node_modules/react-native/ReactCommon/jschelpers/InspectorInterfaces.h
